@@ -1,0 +1,2 @@
+C:\VSprojects\Struct\Sort\x64\Debug\Sort.vcxproj.CopyComplete
+C:\VSprojects\Seminar\Struct\Sort\x64\Debug\Sort.vcxproj.CopyComplete
