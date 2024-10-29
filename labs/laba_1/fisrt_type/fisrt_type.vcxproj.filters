@@ -32,13 +32,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="everything.h">
-      <Filter>Исходные файлы</Filter>
-    </ClInclude>
+    <Text Include="input.txt">
+      <Filter>Файлы заголовков</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="input.txt">
-      <Filter>Исходные файлы</Filter>
-    </Text>
+    <ClInclude Include="everything.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
