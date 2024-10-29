@@ -1,0 +1,9 @@
+﻿  convert.cpp
+  fisrt_type.cpp
+  main.cpp
+C:\Users\vikin\source\repos\labs\laba_1\fisrt_type\main.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  second_type.cpp
+C:\Users\vikin\source\repos\labs\laba_1\fisrt_type\second_type.cpp(9,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  third_type.cpp
+  Создание кода...
+  fisrt_type.vcxproj -> C:\Users\vikin\source\repos\labs\laba_1\x64\Debug\fisrt_type.exe
