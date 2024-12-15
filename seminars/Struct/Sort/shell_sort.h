@@ -1,1 +1,1 @@
-template<typename type>void shell_sort(type array[], int size);
+template<typename T>void shell_sort(T arr[], int size);
